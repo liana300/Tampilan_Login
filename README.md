@@ -4,4 +4,4 @@ Berisikan tentang Tampilan login sederhana
 
 menggunakan bootstrap
 
-menggukan styeling css
+menggukan styling css
